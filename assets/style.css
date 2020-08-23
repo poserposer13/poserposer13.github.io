@@ -1,5 +1,3 @@
-@media only screen and (max-width: 576px) {
-    .img-fluid {
-        margin-bottom: 20px;
-    }
+.img-fluid {
+    margin-bottom: 20px;
 }
